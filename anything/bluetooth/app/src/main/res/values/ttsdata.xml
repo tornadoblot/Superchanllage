@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main">어서 오세요, 맥도날드입니다. 주문 시작하시려면 확인 버튼을 눌러주세요</string>
+    <string name="foodSelect">음식 선택 단계입니다. 버거, 음료, 사이드, 세트 중에서 방향키를 이용하여 주문하실 음식을 선택한 후, 확인 버튼을 눌러 주세요</string>
+    <string name="select">선택하셨습니다.</string>
+    <string name="flavorChoose">버거를 선택하셨습니다. 다음의 4가지 맛 중에서, 방향키를 이용하여 햄버거의 맛을 버튼 혹은 음성으로 선택하여 주세요</string>
+    <string name="burgerTextSay">다음의 맛 버거 중에서, 주문하실 버거를 버튼 혹은 음성으로 선택하여 주세요</string>
+    <string name="chooseEnd">맛 버거 단품을 선택하셨습니다. 방향키를 이용하여 수량을 선택한 후 확인 버튼을 눌러 주세요</string>
+</resources>
